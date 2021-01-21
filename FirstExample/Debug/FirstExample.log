@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  3D_World_Traversal.cpp
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(98,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(205,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(406,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(411,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(416,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(421,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(443,20): warning C4018: '<': signed/unsigned mismatch
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(449,18): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(460,20): warning C4018: '<': signed/unsigned mismatch
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(470,20): warning C4018: '<': signed/unsigned mismatch
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(483,20): warning C4018: '<': signed/unsigned mismatch
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(488,21): warning C4018: '<': signed/unsigned mismatch
+D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\FirstExample\3D_World_Traversal.cpp(620,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  FirstExample.vcxproj -> D:\Textured_3D_Space_Traverse_With_Yaw_Pitch\finalProject\Debug\3D_World.exe
